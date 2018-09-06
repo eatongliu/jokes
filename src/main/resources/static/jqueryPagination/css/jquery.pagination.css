@@ -25,6 +25,10 @@
 	color: #fff;
 	cursor: default;
 }
+.ui-pagination-container .ui-pagination-page-item.ellipse {
+	border: none;
+	cursor: not-allowed;
+}
 .page{
 	text-align: center;
 	margin: 30px 0;
